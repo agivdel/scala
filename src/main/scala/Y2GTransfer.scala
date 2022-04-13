@@ -1,11 +1,3 @@
-import com.google.gson.Gson
-import com.google.gson.JsonObject
-import com.gridnine.platform.common.lundaru.model.adstransfer.AdsTransferY2G
-import com.gridnine.platform.common.lundaru.model.adstransfer.Campaign
-import com.gridnine.platform.server.lundaru.adstransfer.AdsTransferMaintenanceJob
-import com.gridnine.xtrip.common.model.Xeption
-import com.gridnine.xtrip.common.model.entity.EntityStorage
-
 import io.jsonwebtoken.Jwts
 import io.jsonwebtoken.SignatureAlgorithm
 import io.jsonwebtoken.impl.TextCodec
